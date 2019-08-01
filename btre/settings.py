@@ -13,9 +13,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'x+h)j%i$7^8gp+lj0%#9upu7gcx)r^7!_j_9ny(+=p77hggp21'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['git.heroku.com/django-realestate-app.git']
 
 
 # Application definition
@@ -36,6 +36,7 @@ INSTALLED_APPS = [
 ]
 
 MIDDLEWARE = [
+    'whitenoise.storage.CompressedManifestStaticFilesStorage',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -70,10 +71,10 @@ WSGI_APPLICATION = 'btre.wsgi.application'
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
 
 DATABASES = {
-    'default': {
+   'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME':'btredb',
-        'USER':'postgres',
+        'NAME':'btre_prod',
+        'USER':'dbadmin',
         'PASSWORD':'kaymas123#',
         'HOST':'localhost'
     }
@@ -121,6 +122,9 @@ STATICFILES_DIRS=[
     os.path.join(BASE_DIR,'btre/static')
 ]
 
+#  Add configuration for static files storage using whitenoise
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+
 MEDIA_ROOT=os.path.join(BASE_DIR,'media')
 MEDIA_URL='/media/'
 
@@ -134,9 +138,8 @@ MESSAGE_TAGS = {
 EMAIL_HOST='smtp.gmail.com'
 EMAIL_PORT=587
 EMAIL_HOST_USER='samyak7523996781@gmail.com'
-EMAIL_HOST_PASSWORD='Kaymas123#'
+EMAIL_HOST_PASSWORD=''
 EMAIL_USE_TLS=True
 
-
 # Activate Django-Heroku.
-django_heroku.settings(locals())
+django_heroku.settings(locals(),staticfiles=False)
