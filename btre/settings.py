@@ -1,5 +1,5 @@
 
-
+import django_heroku
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -136,3 +136,7 @@ EMAIL_PORT=587
 EMAIL_HOST_USER='samyak7523996781@gmail.com'
 EMAIL_HOST_PASSWORD='Kaymas123#'
 EMAIL_USE_TLS=True
+
+
+# Activate Django-Heroku.
+django_heroku.settings(locals())
