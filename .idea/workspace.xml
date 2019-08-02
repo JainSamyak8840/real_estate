@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="47ea5106-336d-4ef7-a1db-5aa8b31eb505" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/btre/static/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/btre/static/css/all.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/btre/static/webFonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/btre/static/webFonts/fa-brands-400.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/btre/static/webFonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/btre/static/webFonts/fa-regular-400.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/btre/static/webFonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/btre/static/webFonts/fa-solid-900.svg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,19 +13,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/btre/static/css/all.css">
+        <entry file="file://$PROJECT_DIR$/btre/static/webfonts/new.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="3799" column="37" lean-forward="true" selection-start-line="3799" selection-start-column="37" selection-end-line="3799" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://E:/bradtraversy/btre_project-master/btre/static/css/all.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="3806" column="6" lean-forward="true" selection-end-line="3809" />
+            <state>
+              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -91,6 +78,7 @@
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/btre/settings.py" />
         <option value="$PROJECT_DIR$/btre/static/css/all.css" />
+        <option value="$PROJECT_DIR$/btre/static/webfonts/new.txt" />
       </list>
     </option>
   </component>
@@ -129,25 +117,12 @@
               <item name="btre_project" type="462c0819:PsiDirectoryNode" />
               <item name="btre" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="btre_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="btre_project" type="462c0819:PsiDirectoryNode" />
-              <item name="btre" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="webfonts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="btre_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="btre_project" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="btre_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="btre_project" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -189,7 +164,7 @@
     <frame x="632" y="61" width="689" height="552" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3579109" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3579109" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -239,23 +214,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/btre-resources/btre_resources/btre_theme/dist/search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="489" lean-forward="true" selection-start-line="489" selection-end-line="489" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/bradtraversy/btre_project-master/templates/listings/search.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2208" />
@@ -608,7 +566,17 @@
     <entry file="file://$PROJECT_DIR$/btre/static/css/all.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="3799" column="37" lean-forward="true" selection-start-line="3799" selection-start-column="37" selection-end-line="3799" selection-end-column="37" />
+          <caret line="3799" column="37" selection-start-line="3799" selection-start-column="37" selection-end-line="3799" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btre/static/webfonts/fa-brands-400.eot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btre/static/webfonts/new.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
