@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47ea5106-336d-4ef7-a1db-5aa8b31eb505" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btre/static/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/btre/static/css/all.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/btre/static/css/all.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="3792" column="19" lean-forward="true" selection-start-line="3792" selection-start-column="19" selection-end-line="3792" selection-end-column="19" />
+            <state relative-caret-position="136">
+              <caret line="3787" column="23" selection-start-line="3787" selection-start-column="23" selection-end-line="3787" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -81,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="632" />
     <option name="y" value="61" />
     <option name="width" value="689" />
@@ -167,6 +167,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="632" y="61" width="689" height="552" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3824885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -586,8 +587,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/btre/static/css/all.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="3792" column="19" lean-forward="true" selection-start-line="3792" selection-start-column="19" selection-end-line="3792" selection-end-column="19" />
+        <state relative-caret-position="136">
+          <caret line="3787" column="23" selection-start-line="3787" selection-start-column="23" selection-end-line="3787" selection-end-column="23" />
         </state>
       </provider>
     </entry>
