@@ -5,8 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/btre/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/btre/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/btre/static/css/lightbox.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/btre/static/css/lightbox.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,20 +14,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/btre/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#1#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,15 +79,15 @@
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/btre/static/css/lightbox.min.css" />
         <option value="$PROJECT_DIR$/btre/set.py" />
-        <option value="$PROJECT_DIR$/btre/settings.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/btre/settings.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="632" />
-    <option name="y" value="115" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="172" />
     <option name="width" value="615" />
     <option name="height" value="483" />
   </component>
@@ -105,7 +97,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,10 +104,21 @@
               <item name="btre_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="btre_project" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="btre_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="btre_project" type="462c0819:PsiDirectoryNode" />
+              <item name="btre" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="btre_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="btre_project" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,10 +151,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="632" y="115" width="615" height="483" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3847487" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3846726" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -486,13 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/btre/static/css/all.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="261" column="19" lean-forward="true" selection-start-line="261" selection-start-column="19" selection-end-line="261" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/bradtraversy/btre_project-master/btre/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -544,16 +539,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/btre/set.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="145" lean-forward="true" selection-start-line="143" selection-end-line="145" />
-          <folding>
-            <element signature="e#1#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/btre/set.py" />
     <entry file="file://$PROJECT_DIR$/../django/btree/btre/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1581">
@@ -564,13 +550,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/btre/settings.py">
+    <entry file="file://$PROJECT_DIR$/btre/static/css/all.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="139" column="44" selection-start-line="139" selection-start-column="44" selection-end-line="139" selection-end-column="44" />
-          <folding>
-            <element signature="e#1#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="164">
+          <caret line="3709" column="21" lean-forward="true" selection-start-line="3709" selection-start-column="21" selection-end-line="3709" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -583,8 +566,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="68">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btre/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#1#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
