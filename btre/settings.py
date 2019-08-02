@@ -13,9 +13,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'x+h)j%i$7^8gp+lj0%#9upu7gcx)r^7!_j_9ny(+=p77hggp21'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['git.heroku.com/django-realestate-app.git']
+ALLOWED_HOSTS = ['django-realestate-app.herokuapp.com']
 
 
 # Application definition
